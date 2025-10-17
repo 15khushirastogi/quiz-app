@@ -1,4 +1,4 @@
-# Quiz Application - CausalFunnel Assignment
+# Quiz Application
 
 A full-stack quiz application built with the MERN stack (MongoDB-less version using React, Express, and Node.js).
 
@@ -22,6 +22,7 @@ A full-stack quiz application built with the MERN stack (MongoDB-less version us
 
 ## 📁 Project Structure
 
+```
 quiz-app/
 ├── client/ # React frontend
 │ ├── public/
@@ -42,6 +43,7 @@ quiz-app/
 │ ├── server.js
 │ └── package.json
 └── README.md
+```
 
 ## 🚀 Installation & Setup
 

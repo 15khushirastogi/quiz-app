@@ -178,12 +178,6 @@ The application will open in your browser at `http://localhost:3000`
 - Custom scrollbars
 - Color-coded question navigation
 
-## 👤 Author
-
-**Khushi Rastogi**
-
-- GitHub: [@15khushirastogi](https://github.com/15khushirastogi)
-
 ## 🚧 Challenges Faced & Solutions
 
 ### Challenge 1: Cross-Origin Resource Sharing (CORS) Policy Violations
@@ -223,3 +217,9 @@ The application will open in your browser at `http://localhost:3000`
 - react: ^18.2.0
 - react-dom: ^18.2.0
 - axios: ^1.6.0
+
+## 👤 Author
+
+**Khushi Rastogi**
+
+- GitHub: [@15khushirastogi](https://github.com/15khushirastogi)
